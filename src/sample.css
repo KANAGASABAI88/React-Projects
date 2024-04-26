@@ -1,0 +1,72 @@
+Width and Height: Define the size of the component.
+width: [value];
+height: [value];
+
+background-color: [color];
+background-image: url([image-url]);
+
+Border: Add borders around the component.
+border: [width] [style] [color];
+
+Padding: Create space between the content and the border of the component.
+padding: [top] [right] [bottom] [left];
+
+Margin: Set space around the component.
+margin: [top] [right] [bottom] [left];
+
+font-family: [font-family];
+font-size: [font-size];
+font-weight: [font-weight];
+
+Text Color:
+color: [color];
+
+display: [value];
+
+position: [value];
+top: [value];
+right: [value];
+bottom: [value];
+left: [value];
+
+box-shadow: [horizontal offset] [vertical offset] [blur radius] [spread radius]
+  [color];
+
+
+
+
+/* font  */
+
+Roboto: A versatile sans-serif typeface designed for better readability.
+
+font-family: 'Roboto', sans-serif;
+
+Open Sans: Another widely used sans-serif font known for its clean and modern appearance
+font-family: 'Open Sans', sans-serif;
+
+Montserrat: A geometric sans-serif typeface with a distinctive style, often used for headings and titles.
+font-family: 'Montserrat', sans-serif;
+
+Lato: A humanist sans-serif typeface with a warm and friendly appearance, suitable for body text as well as headings.
+font-family: 'Lato', sans-serif;
+
+Roboto Slab: A slab serif font that combines a strong structure with friendly curves, making it suitable for both headings and body text.
+font-family: 'Roboto Slab', serif;
+
+
+Poppins: A modern sans-serif font with a clean and minimalist design, suitable for a wide range of applications.
+font-family: 'Poppins', sans-serif;
+
+
+Playfair Display: A classic serif font with elegant and distinctive letterforms, often used for headings and titles.
+font-family: 'Playfair Display', serif;
+
+Noto Sans: A sans-serif font designed to be visually harmonious across multiple languages and scripts.cd
+font-family: 'Noto Sans', sans-serif;
+
+Raleway: A geometric sans-serif font with a sleek and stylish appearance, suitable for both headings and body text.
+font-family: 'Raleway', sans-serif;
+
+Roboto Condensed: A condensed version of the Roboto font family, ideal for situations where space is limited.
+font-family: 'Roboto Condensed', sans-serif;
+

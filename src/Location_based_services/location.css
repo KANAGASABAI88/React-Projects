@@ -1,0 +1,19 @@
+.location-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.location-container h2 {
+  text-align: center;
+}
+
+.location-details {
+  margin-top: 20px;
+}
+
+.location-details p {
+  margin-bottom: 10px;
+}

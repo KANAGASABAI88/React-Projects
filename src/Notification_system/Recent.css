@@ -1,0 +1,37 @@
+/* NotificationSystem.css */
+
+.notification-system {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.notification-system h2 {
+  margin-bottom: 10px;
+}
+
+.notifications {
+  margin-bottom: 10px;
+}
+
+.notification {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+.notification button {
+  padding: 5px 10px;
+  font-size: 14px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.notification button:hover {
+  background-color: #0056b3;
+}
